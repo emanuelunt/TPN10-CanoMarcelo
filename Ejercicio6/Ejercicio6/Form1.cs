@@ -65,7 +65,7 @@ namespace Ejercicio6
 
         private void btnCuantro_Click(object sender, EventArgs e)
         {
-            
+            textBox1.Text = textBox1.Text + "4";
         }
     }
 }
